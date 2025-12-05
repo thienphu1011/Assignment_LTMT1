@@ -1,0 +1,5 @@
+HOSPITAL EXPENSE REPORT
+------------------------
+Patient Type: Out-patient
+------------------------
+Total hospital expense: $52.00
