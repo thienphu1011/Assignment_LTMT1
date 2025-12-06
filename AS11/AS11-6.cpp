@@ -1,6 +1,3 @@
-// speakers_bureau.cpp
-// Problem 8: Speakers Bureau
-
 #include <iostream>
 #include <string>
 using namespace std;
